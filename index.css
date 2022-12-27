@@ -1,0 +1,10 @@
+.home{
+    background-image: url(assets/profilebg.jpg);
+    background-size:auto;
+}
+.text-justify{
+    text-align:justify;
+}
+.about{
+    background-color: rgb(221, 232, 234);
+}
